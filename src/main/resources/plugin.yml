@@ -1,0 +1,16 @@
+name: ChallengesDuels
+main: de.minefact.Main
+api-version: 1.14
+version: 2.0
+author: MineFact
+
+commands:
+  help:
+    usage: /help
+    aliases: [info, ?]
+  prestart:
+    usage: /prestart
+    aliases: [ps]
+  world:
+    usage: /world
+    aliases: [w]

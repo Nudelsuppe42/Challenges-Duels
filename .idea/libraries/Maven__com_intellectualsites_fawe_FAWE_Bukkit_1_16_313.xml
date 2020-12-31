@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.intellectualsites.fawe:FAWE-Bukkit:1.16-313">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/intellectualsites/fawe/FAWE-Bukkit/1.16-313/FAWE-Bukkit-1.16-313.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/intellectualsites/fawe/FAWE-Bukkit/1.16-313/FAWE-Bukkit-1.16-313-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/intellectualsites/fawe/FAWE-Bukkit/1.16-313/FAWE-Bukkit-1.16-313-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
